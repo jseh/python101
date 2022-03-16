@@ -7,7 +7,5 @@ def nuevaFuncion2():
 print('hola')
 print('mundo0')
 print('mundo1')
-print('mundo33333')
-print('mundo44444')
 
 nuevaFuncion()
