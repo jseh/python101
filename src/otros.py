@@ -1,5 +1,5 @@
 def nuevo(): 
-    return "creado"
+    return 23
 
 def actualizar(): 
-    return "actualizado"
+    return 23
