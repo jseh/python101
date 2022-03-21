@@ -1,7 +1,8 @@
-def nuevaFuncion(): 
-    print('opcion de develop')
-
 print('hola')
-print('mundo0')
-
-nuevaFuncion()
+print('hola')
+print('hola')
+print('hola')
+print('hola')
+print('hola')
+print('jose manuel')
+print('todo bien')
