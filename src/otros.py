@@ -15,3 +15,6 @@ def vuelo():
 
 def nuevo_alg(): 
     return "100%"
+
+def carga_rapida(): 
+    return "100%"
