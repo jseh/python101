@@ -1,8 +1,2 @@
-print('hola')
-print('hola')
-print('hola')
-print('hola')
-print('hola')
-print('hola')
 print('jose manuel')
 print('todo bien')
