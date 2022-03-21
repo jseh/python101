@@ -10,5 +10,5 @@ def cambiar_nombre():
 def cambiar_color(): 
     return "color cambiado"
 
-def vuevlor(): 
+def vuelo(): 
     return "modo vuelo"
