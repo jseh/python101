@@ -18,3 +18,6 @@ def nuevo_alg():
 
 def carga_rapida(): 
     return "100%"
+
+def mayor_velocidad(): 
+    return "100%"
