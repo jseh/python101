@@ -12,3 +12,12 @@ def cambiar_color():
 
 def vuelo(): 
     return "modo vuelo"
+
+def nuevo_alg(): 
+    return "100%"
+
+def carga_rapida(): 
+    return "100%"
+
+def mayor_velocidad(): 
+    return "100%"
