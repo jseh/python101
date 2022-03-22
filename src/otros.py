@@ -21,3 +21,6 @@ def carga_rapida():
 
 def mayor_velocidad(): 
     return ":v bug arreglado"
+
+def nuevo_delta(): 
+    return "delta123"
