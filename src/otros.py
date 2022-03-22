@@ -20,4 +20,4 @@ def carga_rapida():
     return "100%"
 
 def mayor_velocidad(): 
-    return "100%"
+    return ":v bug arreglado"
