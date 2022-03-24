@@ -1,3 +1,6 @@
+def ok(): 
+    print('nuevo')
+    
 def volaris(): 
     print('hola mundo')
 
