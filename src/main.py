@@ -1,2 +1,6 @@
-print('jose manuel')
-print('todo bien')
+def volaris(): 
+    print('hola mundo')
+
+if __name__ == "__main__":
+    print('todo bien')
+    volaris()
